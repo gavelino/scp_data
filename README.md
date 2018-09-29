@@ -1,5 +1,5 @@
 # Measuring and Analyzing Code Authorship in 1+118 Open Source Projects (DATA)
-This repository contains the scripts used to extract and compute the data used in the under developmnet paper. 
+This repository contains the scripts used to extract and compute the data used in the study. 
 
 ###Folders
 -	scripts: script files and program used to extract and compute the authorship data. 
