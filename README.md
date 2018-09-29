@@ -7,7 +7,7 @@ In this study we investigate code authorship in 1+118 open-source projects. The 
 ### Linux kernel
 We investiga 66 stable releases of Linux kernel (v2.6.12–v4.17). Repository url = https://github.com/torvalds/linux
 
-### 118 repositories (extended dataset)
+### Extended dataset (118 repositories) 
 We contrast the Linux results with the ones computed for an extended dataset of 118 popular opens-source projects. All projects were cloned from their GitHub repository on September 27th, 2018. More details about these projecs are provided in table below.
 
 Project | Repository Url | Last commit
